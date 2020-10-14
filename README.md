@@ -1,5 +1,5 @@
 # speedtest
-Test network speed using Speedtest by Ookla. The result is published to Slack.
+Test network speed using Speedtest by Ookla. The result is published to Slack. The tool can be used to monitor if network speed doesn't meet SLA with ISP.
 
 Setup:
 - install [speedtest cli](https://www.speedtest.net/apps/cli)
